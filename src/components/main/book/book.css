@@ -1,0 +1,7 @@
+.book {
+  border: solid 2px lightgrey;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  background: aqua;
+}
